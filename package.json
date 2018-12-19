@@ -1,0 +1,29 @@
+{
+  "name": "zrqkk3j40l",
+  "version": "1.0.0",
+  "description": "React App. A modal window with the table. In the table there is a list of persons with id, name, date and account. The table can be sorted by each column and searched. Opens in a separate window only",
+  "keywords": [
+    "table",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-key-index": "0.1.1",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
