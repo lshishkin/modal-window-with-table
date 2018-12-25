@@ -6,7 +6,7 @@ React App. A modal window with the table. In the table there is a list of person
 Link to [CodeSandbox](https://codesandbox.io/s/github/lshishkin/modal-window-with-table).
 Try [here](https://031m01n9ln.codesandbox.io/).
 
-Модальное окно с таблицей. В таблице приведен список людей с id, именем, датой и счетом. Таблицу можно отсортировать по каждому столбцу и искать. Открывается только в отдельном окне.
+Приложение сделано на React. Модальное окно с таблицей. В таблице приведен список людей с id, именем, датой и счетом. Таблицу можно отсортировать по каждому столбцу и искать. Открывается только в отдельном окне.
 
 Ссылка на [CodeSandbox](https://codesandbox.io/s/github/lshishkin/modal-window-with-table).
 Работает [здесь](https://031m01n9ln.codesandbox.io/).
